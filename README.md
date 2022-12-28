@@ -1,0 +1,2 @@
+# Palindromik-Kelime
+Palindromik Kelime
